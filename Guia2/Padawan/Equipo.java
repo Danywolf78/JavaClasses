@@ -9,12 +9,12 @@ public static void main(String[] args) {
     String equipo2= "Jose Maria Paz";
     String entrenador1="Juan Maria";
     String entrenador2= "Matias";
-    String jugador1=" Juan Maria ";
-    String jugador11="Martin ";
-    String jugador12="Daniel ";
-    String jugador2=" Juan Maria ";
-    String jugador21="Martin ";
-    String jugador22="Daniel ";
+    String jugador1=" Juan Maria, ";
+    String jugador11="Martin, ";
+    String jugador12="Daniel, ";
+    String jugador2=" Juan, ";
+    String jugador21="Matias, ";
+    String jugador22="Miguel, ";
     System.out.println("El Equipo :" +equipo1+" dirigido por "+ entrenador1 +" y sus jugadores son :" +jugador1+jugador11+jugador12 );
     System.out.println("El Equipo :" +equipo2+" dirigido por "+ entrenador2 +" y sus jugadores son :" +jugador2+jugador21+jugador22 );
 
